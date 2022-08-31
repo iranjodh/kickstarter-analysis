@@ -6,7 +6,7 @@ The Purpose of project was to help the client Lousi who also had play Called <i>
 
 ## Analysis and Challenges
  
-Analysis of Outcomes Based on Launch Date
+### Analysis of Outcomes Based on Launch date
 
 The most successful month for theater in the entire year was May with 111 successfgul shows followed by June with 100. Also, May and October happens to be the month with most failed show with 52 and 50 respectivly. Alternately, december was the least successful month of the year with total 75 shows and only 37 being successful out of of them. Overall, the cancel rate is comparetly very low compared to failed. In month of Feb ,May, June almost half of the shows in ratio to  successful shows were failed which was quite alarming.
 
