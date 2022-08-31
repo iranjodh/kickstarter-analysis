@@ -24,8 +24,10 @@ The most successful range of goal expectation was between $1000 to $4999 with 73
 2) 
 
 - What can you conclude about the Outcomes based on Goals?
+- 
 
 - What are some limitations of this dataset?
+One of the biggest limitation of this dataset that there is no information as to why the shows were failed and cancelled. If we were to make the correct deciions for the future this type of data can be very relevent.
 
 - What are some other possible tables and/or graphs that we could create?
-  
+  We didn't do any anlyses for spaces sub category which could also provide us with more relevent informatoion about the data set. We could also a do a concise pie chart comparing the %age of successful failed and cancelled in adddition to Bar and line charts.
