@@ -7,10 +7,13 @@ The Purpose of project was to help the client Lousi who also had play Called <i>
 ## Analysis and Challenges
  
 ### Analysis of Outcomes Based on Launch date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/112028108/187798759-e8fb7ab6-fbd1-4d96-bcf1-5e2140766004.png)
 
 The most successful month for theater in the entire year was May with 111 successfgul shows followed by June with 100. Also, May and October happens to be the month with most failed show with 52 and 50 respectivly. Alternately, december was the least successful month of the year with total 75 shows and only 37 being successful out of of them. Overall, the cancel rate is comparetly very low compared to failed. In month of Feb ,May, June almost half of the shows in ratio to  successful shows were failed which was quite alarming.
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/112028108/187798831-ad526143-5e47-4d2d-bb46-5233437d1868.png)
 
 The most successful range of goal expectation was between $1000 to $4999 with 73% sucecess rate which was total of 388 shows. On the contray,the shows wioth goal $1000 to $4999 with 146 failed shows. There was one show with goal of 45000 to 49999 and it was failed. One of the outcome of the for the "plays" category was that there was no show cancelled. The most successful goal range was less than 1000 with 76% success rate and least failed rate with only 24%. The three ranges with less than 50% success rate were 20000 to 24999, 25000 to 29999,30000 to 34999,45000 to 49999, 50000 and above with 45% , 20%,27% , 0% and 17% respectively.
 
