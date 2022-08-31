@@ -21,13 +21,14 @@ The most successful range of goal expectation was between $1000 to $4999 with 73
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1) Summer months like May and June reltively more successful compared to other months and Decemeber being the least successful. It could be because people prefer other activities in the winter compared to going to shows.
-2) 
+2) The overall success rate is compartvielty higher than failed shows with very few shows getting cancelled.
 
-- What can you conclude about the Outcomes based on Goals?
-- 
+<b>What can you conclude about the Outcomes based on Goals?</b>
+1) To raise money up to 10000 is reltively more succesful in Plays category and gets difficult to raise every penny after that
+2) After threshold of 25000 the % of failed events is more than sucesssful.
 
-- What are some limitations of this dataset?
+<b>What are some limitations of this dataset?</b>
 One of the biggest limitation of this dataset that there is no information as to why the shows were failed and cancelled. If we were to make the correct deciions for the future this type of data can be very relevent.
 
-- What are some other possible tables and/or graphs that we could create?
+<b>What are some other possible tables and/or graphs that we could create?</b>
   We didn't do any anlyses for spaces sub category which could also provide us with more relevent informatoion about the data set. We could also a do a concise pie chart comparing the %age of successful failed and cancelled in adddition to Bar and line charts.
